@@ -1,1 +1,2 @@
-# Vodacom-SmartConfigurator2.0
+# Vodacom-SmartConfigurator 2.0
+
