@@ -6,6 +6,10 @@ class AppController {
     test() {
       this.member = 'Test';
     }
+
+
+    $onInit() {
+    }
 }
 
 export default AppController;

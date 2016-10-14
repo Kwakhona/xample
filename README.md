@@ -1,4 +1,4 @@
-# Vodacom-SmartConfigurator 2.0
+# Xample
 
 
 ### Setup Dependencies

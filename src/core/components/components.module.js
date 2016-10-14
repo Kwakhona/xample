@@ -6,9 +6,11 @@ import ContainerFluidComponent from './container-fluid/container-fluid.component
 import LoginComponent from './login/login.component';
 import LogoutComponent from './logout/logout.component';
 import LoaderComponent from './loader/loader.component';
+import MapsComponent from './maps/maps.component';
 
 export default angular.module('core.components', [])
     .component('app', AppComponent)
+    .component('maps', MapsComponent)
     .component('count', CountComponent)
     .component('list', ListComponent)
     .component('wikiSearch', WikiSearchComponent)

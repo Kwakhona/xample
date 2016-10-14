@@ -1,5 +1,5 @@
 import './index.scss';
-
+//import './afrigis.js';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'angular-toastr/dist/angular-toastr.css';
 
@@ -16,7 +16,6 @@ import uiBootstrap from 'angular-ui-bootstrap';
 import uiRouter from 'angular-ui-router';
 import toastr from 'angular-toastr';
 import rx from 'rx-angular';
-
 import CoreModule from './core/core.module';
 
 angular.module('app', [
